@@ -1,0 +1,8 @@
+D:\GitHub\Project\BTVN\CGO_Cannang\CGO_Cannang\bin\Debug\CGO_Cannang.exe.config
+D:\GitHub\Project\BTVN\CGO_Cannang\CGO_Cannang\bin\Debug\CGO_Cannang.exe
+D:\GitHub\Project\BTVN\CGO_Cannang\CGO_Cannang\bin\Debug\CGO_Cannang.pdb
+D:\GitHub\Project\BTVN\CGO_Cannang\CGO_Cannang\obj\Debug\CGO_Cannang.csproj.AssemblyReference.cache
+D:\GitHub\Project\BTVN\CGO_Cannang\CGO_Cannang\obj\Debug\CGO_Cannang.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\BTVN\CGO_Cannang\CGO_Cannang\obj\Debug\CGO_Cannang.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\BTVN\CGO_Cannang\CGO_Cannang\obj\Debug\CGO_Cannang.exe
+D:\GitHub\Project\BTVN\CGO_Cannang\CGO_Cannang\obj\Debug\CGO_Cannang.pdb
